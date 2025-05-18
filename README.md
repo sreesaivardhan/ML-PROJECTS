@@ -51,7 +51,7 @@ This highlights the trade-offs between label dependency and exploratory potentia
 
 ---
 
-## 📊 Results
+##  Results
 
 | Metric                  | Logistic Regression | K-Means Clustering |
 |-------------------------|---------------------|--------------------|
@@ -82,7 +82,7 @@ This highlights the trade-offs between label dependency and exploratory potentia
 
 ---
 
-## 🧾 Code Files
+##  Code Files
 
 ### `logistic_regression_iris.py`
 Implements preprocessing, model training, accuracy evaluation, and visualization for Logistic Regression.
